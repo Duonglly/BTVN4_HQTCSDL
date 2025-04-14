@@ -35,7 +35,20 @@
 ![image](https://github.com/user-attachments/assets/4610412e-ca54-45a0-aaa9-b707f885952e)
 ### Nhập dữ liệu cho bảng Phòng Học
 ![image](https://github.com/user-attachments/assets/a7130c58-0c8a-4edd-b292-5a737122217c)
-### Nhập dữ liệu cho bàng 
+### Nhập dữ liệu cho bàng giảng viên
+![image](https://github.com/user-attachments/assets/b52fb86e-8f7c-4f25-94c6-9b627c054734)
+### Nhập dữ liệu cho bảng lớp
+![image](https://github.com/user-attachments/assets/e43bf80f-acb2-4a9d-bd0a-f48dc50c45b0)
+### Nhập dữ liệu cho bảng Môn Học
+![image](https://github.com/user-attachments/assets/d94be495-17b5-4b82-bfb6-77ccc5061cca)
+### Nhập dữ liệu cho bảng Ca Dạy
+![image](https://github.com/user-attachments/assets/adaa7cd9-026c-4afb-8f6b-6dad4d0e7f85)
+### Nhập dữ liệu cho bảng Lịch Dạy
+![image](https://github.com/user-attachments/assets/b73e2937-cbd4-4692-811e-85fc841cc0c0)
+
+
+
+
 
 
 
